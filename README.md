@@ -13,7 +13,7 @@ We believe understanding computer performance metrics, their origins, derivation
 
 ## Contributing
 
-We welcome contributions documenting metrics along with any associated utilities. Our preferred languages for utilities are JavaScript (Node.js) and Go. For more information, see our contributing [guide](https://github.com/doc-metrix/contributing).
+We welcome contributions documenting metrics along with any associated utilities. For more information, see our contributing [guide](https://github.com/doc-metrix/contributing).
 
 
 ---
